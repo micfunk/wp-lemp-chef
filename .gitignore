@@ -1,0 +1,5 @@
+/wordpress
+.vagrant
+.snip
+*.zip
+.DS_Store
